@@ -1,31 +1,8 @@
-# Project Title
+# React + Vite
 
-This is a dummy project created for demonstration purposes.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Table of Contents
+Currently, two official plugins are available:
 
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Description
-
-This project is a placeholder for showcasing the structure of a typical GitHub repository, including a `README.md` file, which serves as a landing page for the repository.
-
-## Installation
-
-No installation is required for this project as it is a dummy project.
-
-## Usage
-
-This project is not intended for actual use. However, you can clone or fork this repository to experiment with GitHub features, such as issues, pull requests, and more.
-
-## Contributing
-
-Contributions are not expected or accepted for this project as it is a dummy project.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
